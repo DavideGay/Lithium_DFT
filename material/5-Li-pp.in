@@ -1,0 +1,11 @@
+&INPUTPP
+  prefix       = "li",
+  outdir       = "./QE-outdir/",
+  filplot      = 'li.charge.raw'
+  plot_num     = 0
+/
+&PLOT
+  iflag        = 3
+  output_format= 5
+  fileout      = 'li.charge.xsf'
+/

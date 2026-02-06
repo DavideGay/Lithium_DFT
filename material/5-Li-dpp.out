@@ -1,0 +1,53 @@
+
+     Program POST-PROC v.7.5 starts on  1Feb2026 at 22:23:29 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+         "P. Giannozzi et al., J. Chem. Phys. 152 154105 (2020);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Parallel version (MPI), running on     1 processors
+
+     MPI processes distributed on     1 nodes
+     0 MiB available memory on the printing compute node when the environment starts
+
+
+     Reading xml data from directory:
+
+     ./QE-outdir/li.save/
+     file Li.pbe-mt_fhi.UPF: wavefunction(s)  2p 4f renormalized
+
+     IMPORTANT: XC functional enforced from input :
+     Exchange-correlation= PBE
+                           (   1   4   3   4   0   0   0)
+     Any further DFT definition will be discarded
+     Please, verify this is what you really want
+
+
+     G-vector sticks info
+     --------------------
+     sticks:   dense  smooth     PW     G-vecs:    dense   smooth      PW
+     Sum         261     261     89                 3191     3191     619
+
+     Using Slab Decomposition
+
+
+     Calling punch_plot, plot_num =   9
+     Writing data to file  li.dcharge.raw
+     Reading data from file  li.dcharge.raw
+
+     Writing data to be plotted to file li.dcharge.xsf
+     Plot Type: 3D                     Output format: XCrySDen     
+
+     POST-PROC    :      0.03s CPU      0.03s WALL
+
+
+   This run was terminated on:  22:23:29   1Feb2026            
+
+=------------------------------------------------------------------------------=
+   JOB DONE.
+=------------------------------------------------------------------------------=

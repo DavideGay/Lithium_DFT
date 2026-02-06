@@ -1,0 +1,7 @@
+&projwfc
+    prefix='li'
+    outdir = './QE-outdir/'
+    ngauss=0
+    degauss=0.03
+    DeltaE=.020000
+/

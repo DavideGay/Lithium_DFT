@@ -1,0 +1,6 @@
+DFT study of Lithium
+
+We perform a simple study of metallic Lithium via DFT calculations using a plane
+wave basis set. The equilibrium lattice constant, Density of States and band structure
+are calculated. Additionally, an AE isolated atom simulation is performed in order to
+compute the photoemission energy of a 1s electron.
